@@ -7,6 +7,14 @@ Project Name: AI-Driven Career Path & Salary Optimizer (2026)
 ## Objective: 
 A SQL-based intelligence engine designed to help freshers identify high-paying job opportunities, calculate skill-match probability, and visualize the "Salary ROI" of learning new technical skills.
 
+## Core Insights from the 2026 Engine:
+
+### The Skill Multiplier: Adding Power BI expands the fresher job market by 25.4%, making it the most effective "career-opening" skill for SQL users.
+
+### The Salary Ceiling: Entry-level pay peaks at 11.94 LPA, but requires a shift toward Machine Learning and Cloud (AWS/Linux).
+
+### Geographic Sweet Spot: Kolkata currently offers the highest average salary (7.23 LPA) for this skill set, followed closely by Delhi.
+
 ## The Problem Statement
 How can a fresher navigate thousands of job postings to find the highest-paying role? This project solves the "Blind Application" problem by using SQL logic to match specific user profiles against a dataset of 5,000+ Indian job listings.
 
@@ -17,6 +25,13 @@ Data Source: Kaggle (Indian Fresher Salary & Skill Trends 2025/26)
 
 Logic: Multi-column joins, Subqueries, and Data Normalization.
 
+Dataset Schema: Column Mapping:
+
+c1: Job Role / Title
+c3: Company Name
+c9: Required Skills (Comma-separated)
+c15: Salary (LPA)
+c5: Job Location
 
 ## Here are my example profile I created with some skills :
 
