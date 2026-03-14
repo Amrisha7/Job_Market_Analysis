@@ -59,4 +59,9 @@ The Result: <img width="1112" height="648" alt="addition of powerBI" src="https:
 
 The "So What?": Proven that adding one visualization skill (Power BI) expands the eligible job pool by 25.4% and increases average starting salary by 6.9 LPA.
 
+### Insight 4: The "City Analysis" Filter
+What I did: Filtered for jobs according to the city and salary
 
+The Result: ![image alt]()
+
+The "So What?": Identified that jobs paying 7+ LPA primarily for the same skill sets in Kolkata followed by Delhi
