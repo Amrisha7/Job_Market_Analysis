@@ -28,9 +28,13 @@ Logic: Multi-column joins, Subqueries, and Data Normalization.
 Dataset Schema: Column Mapping:
 
 c1: Job Role / Title
+
 c3: Company Name
+
 c9: Required Skills (Comma-separated)
+
 c15: Salary (LPA)
+
 c5: Job Location
 
 ## Here are my example profile I created with some skills :
@@ -62,6 +66,6 @@ The "So What?": Proven that adding one visualization skill (Power BI) expands th
 ### Insight 4: The "City Analysis" Filter
 What I did: Filtered for jobs according to the city and salary
 
-The Result: ![image alt]()
+The Result: ![image alt](https://github.com/Amrisha7/Job_Market_Analysis/blob/74a27fd4be4e50ef6b177d16f36e156fbfcc2e1f/Screenshots/job%20acc%20to%20city.png)
 
 The "So What?": Identified that jobs paying 7+ LPA primarily for the same skill sets in Kolkata followed by Delhi
