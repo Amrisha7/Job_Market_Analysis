@@ -4,6 +4,12 @@ I built a SQL-based Career Intelligence Engine to analyze the 2026 job market
 ## Project Title & Overview
 Project Name: AI-Driven Career Path & Salary Optimizer (2026)
 
+
+<img width="1919" height="977" alt="Screenshot 2026-08-21 140258" src="https://github.com/user-attachments/assets/de3f70f3-a7b3-4485-941a-9ca74243d193" />
+
+
+This interactive Power BI dashboard provides **Company vs. Skill vs. Compensation Mapping**, it visualizes real-time industry compensation packages relative to core skill requirements across hiring companies in a single unified chart.
+
 ## Objective: 
 A SQL-based intelligence engine designed to help freshers identify high-paying job opportunities, calculate skill-match probability, and visualize the "Salary ROI" of learning new technical skills.
 
@@ -11,7 +17,7 @@ A SQL-based intelligence engine designed to help freshers identify high-paying j
 
 ### The Skill Multiplier: Adding Power BI expands the fresher job market by 25.4%, making it the most effective "career-opening" skill for SQL users.
 
-### The Salary Ceiling: Entry-level pay peaks at 11.94 LPA, but requires a shift toward Machine Learning and Cloud (AWS/Linux).
+### The Salary Ceiling: Entry-level pay peaks at 11.94 LPA,but requires a shift toward Machine Learning and Cloud (AWS/Linux).
 
 ### Geographic Sweet Spot: Kolkata currently offers the highest average salary (7.23 LPA) for this skill set, followed closely by Delhi.
 
@@ -19,6 +25,9 @@ A SQL-based intelligence engine designed to help freshers identify high-paying j
 How can a fresher navigate thousands of job postings to find the highest-paying role? This project solves the "Blind Application" problem by using SQL logic to match specific user profiles against a dataset of 5,000+ Indian job listings.
 
 ## The Tech Stack
+
+Business Intelligence: Power BI Desktop (DAX, Power Query, Data Modeling)
+  
 Database: SQLite (SQL Online)
 
 Data Source: Kaggle (Indian Fresher Salary & Skill Trends 2025/26)
